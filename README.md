@@ -1,1 +1,0 @@
-# omerkonca.github.io
