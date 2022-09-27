@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="new">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hts-cache/new.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
