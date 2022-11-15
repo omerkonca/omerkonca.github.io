@@ -29,7 +29,10 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
-    <!-- Navbar Start -->
+<div id="loading">
+    <img src="img/loader.gif" alt="Yükleniyor..." />
+</div>
+<!-- Navbar Start -->
 
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
         <a href="index.html" class="navbar-brand ml-lg-3">
@@ -577,6 +580,13 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script>
+    window.addEventListener('load', fg_load)
+
+    function fg_load() {
+        document.getElementById('loading').style.display = 'none'
+    }
+    </script>
 </body>
 
 
