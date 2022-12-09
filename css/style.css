@@ -4858,7 +4858,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #805d3f;
+  background-color: #000000;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
@@ -5163,7 +5163,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #805d3f;
+  background-color: #000000;
   transition: width 0.6s ease;
 }
 
@@ -5250,8 +5250,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #805d3f;
-  border-color: #805d3f;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .list-group-item + .list-group-item {
