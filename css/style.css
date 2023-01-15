@@ -2371,8 +2371,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #805d3f;
-  border-color: #805d3f;
+  background-color: #293556;
+  border-color: #293556;
 }
 
 .btn-primary:hover {
@@ -2390,8 +2390,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #805d3f;
-  border-color: #805d3f;
+  background-color: #293556;
+  border-color: #293556;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -2666,14 +2666,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #805d3f;
-  border-color: #805d3f;
+  color: #293556;
+  border-color: #293556;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #805d3f;
-  border-color: #805d3f;
+  background-color: #293556;
+  border-color: #293556;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -2681,15 +2681,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #805d3f;
+  color: #293556;
   background-color: transparent;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #805d3f;
-  border-color: #805d3f;
+  background-color: #293556;
+  border-color: #293556;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -2923,7 +2923,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #805d3f;
+  color: #293556;
   text-decoration: none;
 }
 
@@ -3580,8 +3580,8 @@ input[type="button"].btn-block {
 
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
-  border-color: #805d3f;
-  background-color: #805d3f;
+  border-color: #293556;
+  background-color: #293556;
 }
 
 .custom-control-input:focus ~ .custom-control-label::before {
@@ -3645,8 +3645,8 @@ input[type="button"].btn-block {
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
-  border-color: #805d3f;
-  background-color: #805d3f;
+  border-color: #293556;
+  background-color: #293556;
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
