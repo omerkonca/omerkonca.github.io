@@ -152,7 +152,7 @@ sup {
 }
 
 a {
-  color: #805d3f;
+  color: #293556;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3221,7 +3221,7 @@ input[type="button"].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #805d3f;
+  background-color: #293556;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -3872,7 +3872,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #805d3f;
+  background-color: #293556;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
