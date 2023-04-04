@@ -1,4 +1,4 @@
-# omerkonca.me kişiisel web sayfası 
+# omerkonca.me kişisel web sayfası 
 ![image](https://user-images.githubusercontent.com/65457096/198896376-9ce7fbcc-05f0-417c-ae85-696238044093.png)   *****************
 ![image](https://user-images.githubusercontent.com/65457096/198896389-4dce60cd-e1c3-466e-b667-c2c33aea8bd8.png)   *****************
 ![image](https://user-images.githubusercontent.com/65457096/198896450-94abdebe-98eb-4dbb-8d7c-7ba77f73a8ae.png)   *****************
