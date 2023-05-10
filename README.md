@@ -1,6 +1,64 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#  KİŞİSEL WEB SAYFAM
+# Kişisel Web Sayfam
+
+Bu proje, kişisel web sayfamı oluşturmak için kullanılan bir repository'dir.
+
+## Proje Açıklaması
+
+Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir kişisel web sayfasını içermektedir. Web sayfam, hakkımda bilgileri, projelerimi ve iletişim bilgilerimi içerir.
+
+## Özellikler
+
+- Hakkımda Sayfası: Kişisel bilgilerimi içeren bir sayfa.
+- Projeler Sayfası: Gerçekleştirdiğim projeleri tanıtan bir sayfa.
+- İletişim Sayfası: İletişim bilgilerimi içeren bir sayfa.
+- Responsive Tasarım: Farklı cihazlarda uyumlu görünen bir tasarım.
+
+## Kurulum
+
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+
+1. Projeyi klonlayın: git clone https://github.com/kullanici_adi/proje-adı.git
+2. Proje dizinine gidin: cd proje-adı
+3. index.html dosyasını bir web tarayıcısıyla açın.
+
+4. Web sayfası tarayıcınızda açılacaktır.
+
+## Katkıda Bulunma
+
+Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
+
+1. Bu depoyu çatallayın (fork).
+
+2. Kendi yerel ortamınıza klonlayın: git clone https://github.com/kullanici_adi/proje-adı.git3.
+ 
+3. Değişikliklerinizi yapın.
+
+4. Değişiklikleri bir branch'e ekleyin: git checkout -b özellik/desriptif-branch-adı
+5. Değişikliklerinizi commit edin: git commit -m "Açıklayıcı bir commit mesajı"
+6. Değişikliklerinizi uzak sunucuya gönderin (push): git push origin özellik/desriptif-branch-adı
+7. GitHub üzerinden bir pull isteği (pull request) oluşturun.
+
+8. Değişiklikleriniz gözden geçirilecek ve projeye entegre edilecektir.
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+
+## İletişim
+
+Proje hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen aşağıdaki iletişim bilgilerinden bana ulaşın:
+
+- E-posta: [omerkonca01@gmail.com]
+- GitHub: [github.com/omerkonca](https://github.com/omerkonca)
+- Kişisel Web Sayfası: [omerkonca.me](http://omerkonca.me)
+
+Teşekkürler
+Bu projeyi ziyaret ettiğiniz için teşekkür ederim. Umarım beğenirsiniz! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin.
+          
+Bu README dosyasını projenizin kök dizininde "README.md" olarak kaydedebilirsiniz. Böylece GitHub veya diğer platformlarda projenizi paylaşırken, README dosyası otomatik olarak görüntülenecektir.
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
