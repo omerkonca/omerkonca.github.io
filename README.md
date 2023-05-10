@@ -55,7 +55,7 @@ Proje hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen aşa�
 - Kişisel Web Sayfası: [omerkonca.me](http://omerkonca.me)
 
 Teşekkürler
-Bu projeyi ziyaret ettiğiniz için teşekkür ederim. Umarım beğenirsiniz! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin.
+-  Bu projeyi ziyaret ettiğiniz için teşekkür ederim. Umarım beğenirsiniz! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin.
           
 Bu README dosyasını projenizin kök dizininde "README.md" olarak kaydedebilirsiniz. Böylece GitHub veya diğer platformlarda projenizi paylaşırken, README dosyası otomatik olarak görüntülenecektir.
 
