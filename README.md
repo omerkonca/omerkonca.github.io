@@ -25,22 +25,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
 
 4. Web sayfası tarayıcınızda açılacaktır.
 
-## Katkıda Bulunma
 
-Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
-
-1. Bu depoyu çatallayın (fork).
-
-2. Kendi yerel ortamınıza klonlayın: git clone https://github.com/kullanici_adi/proje-adı.git3.
- 
-3. Değişikliklerinizi yapın.
-
-4. Değişiklikleri bir branch'e ekleyin: git checkout -b özellik/desriptif-branch-adı
-5. Değişikliklerinizi commit edin: git commit -m "Açıklayıcı bir commit mesajı"
-6. Değişikliklerinizi uzak sunucuya gönderin (push): git push origin özellik/desriptif-branch-adı
-7. GitHub üzerinden bir pull isteği (pull request) oluşturun.
-
-8. Değişiklikleriniz gözden geçirilecek ve projeye entegre edilecektir.
 
 ## Lisans
 
