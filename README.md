@@ -29,7 +29,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+Bu proje [MIT Lisansı](LICENSE.txt) altında lisanslanmıştır. Daha fazla bilgi için lütfen `LICENSE` dosyasını inceleyin.
 
 ## İletişim
 
