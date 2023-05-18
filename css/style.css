@@ -6353,6 +6353,18 @@ a.close.disabled {
 .align-text-top {
   vertical-align: text-top !important;
 }
+.bg-image {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+}
+
+@media (max-width: 1024px) {
+  .bg-image {
+    background-attachment: scroll;
+  }
+}
 
 .bg-primary {
   background-color: #805d3f !important;
